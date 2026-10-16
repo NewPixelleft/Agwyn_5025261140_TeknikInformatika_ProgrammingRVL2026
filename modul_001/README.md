@@ -8,12 +8,16 @@ Includes 3 assignments:
 
 ## Paper-Based Forward Kinematic Solution
 We are given 2 Degree of Freedom (DOFs). 
-$$
-\begin{align*}
-L_1 = 10\text{cm}\\L_2 = 5\text{cm} \\
-\theta_1 = 30^{\circ} \\ \theta_2 = 10^{\circ}
-\end{align*}
-$$
+
+$$L_1 = 10\text{cm}$$
+
+$$L_2 = 5\text{cm}$$
+
+
+$$\theta_1 = 30^{\circ}$$
+
+$$\theta_2 = 10^{\circ}$$
+
 The problem states to fnind the final position of the end effector in 2 dimensional cartesian field
 
 ## Implementation of Forward Kinematic
