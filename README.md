@@ -1,1 +1,1 @@
-# Internship in RIVAL 2026
+# Internship at RIVAL 2026
